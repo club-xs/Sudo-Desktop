@@ -63,9 +63,39 @@ namespace WindowsFormsAppFW.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_home_48px {
+        internal static System.Drawing.Bitmap icons8_help_40px_1 {
             get {
-                object obj = ResourceManager.GetObject("icons8_home_48px", resourceCulture);
+                object obj = ResourceManager.GetObject("icons8_help_40px_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_home_40px {
+            get {
+                object obj = ResourceManager.GetObject("icons8_home_40px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_info_40px_3 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_info_40px_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_settings_40px_1 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_settings_40px_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
